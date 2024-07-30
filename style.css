@@ -1,0 +1,28 @@
+.background {
+    background-image: url('daaaa.jpg'); 
+    background-size: cover;
+    background-position: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(31, 28, 28);
+    padding: 20px;
+    box-sizing: border-box;
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(167, 192, 218);
+    background-color: #087dd1;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}
